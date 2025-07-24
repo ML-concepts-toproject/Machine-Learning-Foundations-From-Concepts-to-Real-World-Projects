@@ -1,0 +1,2 @@
+# Machine-Learning-Foundations-From-Concepts-to-Real-World-Projects
+This is the repository containing the projects mentioned in the book Machine Learning Foundations: From Concepts to Real World Projects, which can be found on amazon. If you have read our book or not this contains 5 project notebooks with a mix of different machine learning concepts. If you have any questions reach out at sb.sg.code@gmail.com.
